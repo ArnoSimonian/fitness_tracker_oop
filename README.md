@@ -61,6 +61,6 @@
 ```
 
 
-## Authors
+## Автор
 
 Арно Симонян [@ArnoSimonian](https://www.github.com/ArnoSimonian)
